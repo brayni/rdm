@@ -1,11 +1,7 @@
 {
-  "posts": [
+  "/api/v1/authenticate": 
     {
-      "id": 1,
-      "title": "hello"
+      "auth_token": "sdfwefwe3f134wef23452342khufiu23ru3gfi2u3gf2i3fhu2i3ufh2i3fy"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
